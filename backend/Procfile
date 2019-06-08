@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT janitorial_masters_l_4384.wsgi:application

@@ -1,0 +1,3 @@
+rootProject.name = 'janitorial_masters_l_4384'
+
+include ':app'
